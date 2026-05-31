@@ -1,0 +1,13 @@
+{
+  "name": "mv-gabojait",
+  "version": "1.0.0",
+  "description": "RPG Maker MV mobile event editor",
+  "scripts": {
+    "build": "echo 'static html, no build'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
