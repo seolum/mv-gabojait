@@ -1,0 +1,8 @@
+{
+  "appId": "com.seolum.mvgabojait",
+  "appName": "MV Gabojait",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
